@@ -36,9 +36,11 @@ Publish the website in the given URL.
 
 ## SERVER SIDE PROCESSING:
 
+![alt text](<Screenshot 2024-12-06 213621.png>)
 
 ## HOMEPAGE:
 
+![alt text](<Screenshot 2024-12-06 213223.png>)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
